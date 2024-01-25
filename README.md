@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+We are using [JSON Placeholder](https://jsonplaceholder.typicode.com/photos)
+
 ## Available Scripts
 
 In the project directory, you can run:
